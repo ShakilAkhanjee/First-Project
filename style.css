@@ -1,0 +1,124 @@
+
+
+
+* {
+
+   margin: 0;
+
+}
+
+
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+body { 
+    padding: 20px;
+    margin: 20px;
+}
+
+#nav-item { 
+    display: flex;
+    gap:100px;
+    list-style-type: none;
+}
+
+
+
+#banner-container {
+    background-color: white;
+    height: 58vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+.murgi {
+    
+}
+   
+
+.banner-title-container {
+    width: 50%;
+}
+
+.banner-image {
+    display: flex;
+    justify-content: right;
+    width: 50%;
+    padding: 20px;
+  
+}
+
+
+.banner-title-container p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.banner-title-container button {
+    padding: 15px 25px;
+    background-color: crimson;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.section-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0px;
+   
+}
+#post-container {
+    background: #EDF7FA;
+    padding: 5px 30px;
+    border-radius: 15px;
+
+}
+
+.post1 { 
+    background-color: white;
+    padding: 20px;
+}
+
+.post1 {
+    margin-bottom: 20px;
+}
+
+.post1 h1 {
+    margin-bottom: 20px;
+}
+
+.post1 p {
+    margin-top: 20px;
+}
+
+
+.post2 {
+    background-color: white;
+    height: 118px;
+    padding: 20px;
+
+}
+.post2 h1 {
+    margin-bottom: 20px;
+}
+.post2 p {
+    margin-top: 20px;
+}
+
+#post1-2 {
+    display: flex;
+    gap: 20px;
+}        
+
