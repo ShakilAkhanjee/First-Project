@@ -80,14 +80,14 @@ body {
    
 }
 #post-container {
-    background: #EDF7FA;
+    background: #ceeaee;
     padding: 5px 30px;
     border-radius: 15px;
 
 }
 
 .post1 { 
-   background-color: #f5f7f8;
+   background-color: aliceblue;
    padding: 20px;
 }
 
@@ -105,14 +105,22 @@ body {
 
 
 .post2 {
-   background-color: #f5f7f8;
-
+   background-color: aliceblue;
    padding: 20px;
+}
+
+.post2 { 
+    margin-bottom:  20px;
+
 
 }
+
+
 .post2 h1 {
     margin-bottom: 20px;
 }
+
+
 .post2 p {
     margin-top: 20px;
 }
