@@ -4,17 +4,12 @@
 * {
 
    margin: 0;
-
 }
-
-
-
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 body { 
@@ -28,21 +23,13 @@ body {
     list-style-type: none;
 }
 
-
-
 #banner-container {
     background-color: white;
     height: 58vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    
 }
-.murgi {
-    
-}
-   
 
 .banner-title-container {
     width: 50%;
@@ -53,14 +40,11 @@ body {
     justify-content: right;
     width: 50%;
     padding: 20px;
-  
 }
-
 
 .banner-title-container p {
     margin-top: 20px;
     margin-bottom: 20px;
-
 }
 
 .banner-title-container button {
@@ -70,20 +54,18 @@ body {
     font-size: 15px;
     font-weight: bold;
     color: white;
-    
 }
 
 .section-title {
     display: flex;
     justify-content: space-between;
     margin: 40px 0px;
-   
 }
+
 #post-container {
     background: #ceeaee;
     padding: 5px 30px;
     border-radius: 15px;
-
 }
 
 .post1 { 
@@ -103,7 +85,6 @@ body {
     margin-top: 20px;
 }
 
-
 .post2 {
    background-color: aliceblue;
    padding: 20px;
@@ -111,15 +92,11 @@ body {
 
 .post2 { 
     margin-bottom:  20px;
-
-
 }
-
 
 .post2 h1 {
     margin-bottom: 20px;
 }
-
 
 .post2 p {
     margin-top: 20px;
